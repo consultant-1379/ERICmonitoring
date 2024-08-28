@@ -1,0 +1,5 @@
+/opt/assuremonitoring-plugins/scripts/rollingsnapshot.pl
+/opt/assuremonitoring-plugins/scripts/backlog.pl
+/opt/assuremonitoring-plugins/scripts/ombs_backup.pl
+/opt/assuremonitoring-plugins/scripts/ombs_status.pl
+/opt/assuremonitoring-plugins/scripts/rollingsnapshot_status.pl
